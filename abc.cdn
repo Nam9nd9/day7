@@ -1,0 +1,18 @@
+khối lệnh 
+    -nằm trong khối {}
+    -nếu dùng khối lệnh. toàn bộ logic or giá trị nằm trong khối lệnh đó, ko can thiệp vào được , dùng cho 1 mục đích riêng nào đó
+    -bên trong khối vẫn dùng đc biến ngoài
+    *Đối với hàm (function) vẫn dùng đc bên ngoài (toàn cục)
+Nếu 2 hàm trùng tên nhau thì nó sẽ ghi đề lên (chỉ js bị, không thông báo ) nên cần lưu ý
+
+Hàm if () {} else {}
+    trong ngoặc() sẽ là biến boolean
+    if lần lượt (xét từng trường hợp riêng lẻ với nhau)
+    if -else if (các trường hợp liên quan với nhau)
+hàm swith-case(là rút ngắn của if-else if) : sửa dụng khi ĐK đơn giản, ít logic
+loop(vòng lặp)
+    for(....,....,....){
+
+    }
+        break:thoát vòng lặp
+
